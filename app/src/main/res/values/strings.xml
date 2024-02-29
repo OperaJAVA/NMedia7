@@ -5,4 +5,7 @@
     <string name="description_post_menu" translatable="false">Post menu</string>
     <string name="description_post_like" translatable="false">Like</string>
     <string name="description_post_share" translatable="false">Share</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_999" translatable="false">999</string>
+    <string name="_777" translatable="false">777</string>
 </resources>
